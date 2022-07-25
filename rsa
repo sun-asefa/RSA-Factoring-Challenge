@@ -43,3 +43,4 @@ def factors(filename):
 
 
 if __name__ == "__main__":
+    factors(argv[1])
